@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 
-server = smtplib.SMTP('smtp.gmail.co', 25)
+server = smtplib.SMTP('smtp.gmail.com', 25)
 
 server.ehlo()
 
