@@ -1,0 +1,5 @@
+Hello World!
+
+This is a mail sent with Python!
+
+This will be used for experience for my cybersecurity endeavors.
